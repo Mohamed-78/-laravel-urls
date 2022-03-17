@@ -1,9 +1,9 @@
-# -laravel-urls
+## -laravel-urls
   Dynamic url in laravel blade page
 
-# -You can install the package via composer:
-  composer require mdev/laravel-urls
+## -You can install the package via composer:
+  > composer require mdev/laravel-urls
 
-# -USAGE
+## -USAGE
   add this in your blade page:
   <code>@extends('layouts.default',['title' => 'YOUR_PAGE_NAME'])</code>
