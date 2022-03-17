@@ -14,7 +14,7 @@
         "vendor/package3": "^2.0.3",
         "illuminate/support": "^8.0"
     },
-    "homepage": "https://github.com/eliseekn/laravel-metrics",
+    "homepage": "https://github.com/Mohamed-78/-laravel-urls",
     "license": "MIT",
     "type": "library",
     "authors": [
