@@ -6,4 +6,4 @@
 
 # -USAGE
   add this in your blade page:
-  * @extends('layouts.default',['title' => 'YOUR_PAGE_NAME'])
+  <code>@extends('layouts.default',['title' => 'YOUR_PAGE_NAME'])</code>
