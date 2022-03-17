@@ -1,5 +1,5 @@
 ## -laravel-urls
-  Dynamic url in laravel blade page
+<https://packagist.org/packages/mdev/laravel-urls>
 
 ## -You can install the package via composer:
   > composer require mdev/laravel-urls
